@@ -26,7 +26,7 @@
 // "O Herói de nome **{nome}** está no nível de **{nível de variável}**"
 
 let nomeHeroi = "Mr. Robot"
-let quantDeExperiencia = 2.000
+let quantDeExperiencia = 10.000
 let nivel = ["Ferro" , "Bronze" , "Prata" , "Ouro" , "Platina" , "Ascendente" , "Imortal" , "Radiante" ]
 
 if(quantDeExperiencia === 1.000){
